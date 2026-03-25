@@ -1,3 +1,4 @@
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Streamlit-red?logo=streamlit)](https://weather-etl-pipeline-e9cxktbxa7qj7jwytgephp.streamlit.app)
 # Weather ETL Pipeline
 
 Automated hourly ETL pipeline that collects weather data for 5 major Polish cities, transforms it with Python, stores it in DuckDB, and visualizes it in an interactive Streamlit dashboard.
